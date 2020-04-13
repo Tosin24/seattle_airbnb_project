@@ -25,7 +25,7 @@ For this project, I was interested in exploring Seattle's airbnb data set. I wan
 1. What is the effect of the number of bedrooms, the number of bathrooms, and the number of beds on the price of the listings?
 2. What is the average price of listings based on the number of bedrooms?
 3. What is the average price of listings based on the type of room?
-4. Which neighborhood are the top 10 most expensive and what is the review ratings for listings in these neighborhoods?
+4. Which neighborhoods are the top 10 most expensive and what is the review ratings for listings in these neighborhoods?
 5. What is the price trend over the months and what season is the listing prices the highest?
 6. What factors are responsible for the price of the listings?
 
