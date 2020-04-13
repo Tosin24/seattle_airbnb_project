@@ -42,7 +42,7 @@ After concluding the analysis, the following conclusions were made:
 - The analysis revealed that the average listing price of an entire home/apartment is higher than the average listing price of a private room or a shared room. While the average listing price of a private room is higher than the average listing price of a shared room.
 - After exploring the top 10 most expensive cities in Seattle and their review scores rating, the analysis showed that while there is no rating scores data for the most expensive neighborhood, the ratings scores for the other neighborhood reveals that the most expensive neighborhoods have rating scores greater than 90. However, the distribution of the rating scores amongst these neighborhood shows that the least expensive neighborhood with an average listing price of $175 has a very high rating of 97.5.
 - The analysis of the price trend throughout the year reveals that the month when the listing price is at the highest is July, the listing price is overall high between July and August, this means that during the summer, the prices usually go up, and the prices are at the lowest between January and March.
-- After fitting the linear regression model, The rsquared on the training data was 0.6056698605091144, while the rsquared on the test data was 0.5562206442224329.
+- After fitting the linear regression model, The rsquared on the training data was 0.605, while the rsquared on the test data was 0.556.
 - The coefficient analysis reveals that the features of the house like property type, room type were determinants in the listings prices.
 
 ## References
