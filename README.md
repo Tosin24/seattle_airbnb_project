@@ -46,5 +46,5 @@ After concluding the analysis, the following conclusions were made:
 - The coefficient analysis reveals that the features of the house like property type, room type were determinants in the listings prices.
 
 ## References
-The blog post for this project can be found on [Medium](https://medium.com/@obisanoluwatosin/exploring-the-airbnb-market-in-seattle-3ea45eba38ce).
-The data set used for this project was downloaded from [Kaggle](https://www.kaggle.com/airbnb/seattle/data).
+- The blog post for this project can be found on [Medium](https://medium.com/@obisanoluwatosin/exploring-the-airbnb-market-in-seattle-3ea45eba38ce).
+- The data set used for this project was downloaded from [Kaggle](https://www.kaggle.com/airbnb/seattle/data).
